@@ -71,7 +71,7 @@ Dashboard Features
 
 •	Revenue per Customer
 
-Dashboard Files
+## Dashboard Files
 
 •	Power BI Dashboard (.pbix)
 
