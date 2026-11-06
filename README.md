@@ -54,17 +54,29 @@ This project demonstrates how Python and SQL can be used together to analyze sal
 ## Power BI Dashboard
 Created an interactive E-Commerce Sales Dashboard using Power BI to analyze sales performance and business insights..
 Dashboard Features
+
 •	Total Sales Analysis
+
 •	Total Quantity Analysis
+
 •	Product-wise Sales Analysis
+
 •	City-wise Sales Analysis
+
 •	Category-wise Sales Contribution
+
 •	Monthly Sales Trends
+
 •	Average Order Value
+
 •	Revenue per Customer
+
 Dashboard Files
+
 •	Power BI Dashboard (.pbix)
+
 •	Dashboard PDF (.pdf)
+
 •	Dashboard Screenshot (.png)
 
 ## Author
